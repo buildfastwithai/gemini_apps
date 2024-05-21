@@ -49,7 +49,7 @@ You are an expert in nutritionist where you need to see the food items from the 
 
                1. Item 1 - no of calories
                2. Item 2 - no of calories
-            
+
                ----
                ----
 
